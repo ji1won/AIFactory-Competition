@@ -1,6 +1,8 @@
 # AIFactory-Competition
 https://aifactory.space/task/2261/overview
 
+## 대회 결과 : 장려상
+
 📎 추진 배경
 
 울산∙경남 지역의 제조업 혁신을 위한 제조ICT 산업의 육성을 위해 ICT/SW융합 응용 기술을 개발할 수 있는 직무역량, 현장 문제 해결역량의 실무 능력을 갖춘 혁신 인재를 육성하고자 합니다.
