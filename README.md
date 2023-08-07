@@ -13,6 +13,7 @@ https://aifactory.space/task/2261/overview
 상세한 과제 내용은 참가자를 대상으로 대회 당일에 공개됩니다.
 
 ## 문제1
+https://aifactory.space/task/2275/overview
 1. 문제 개요 🔩
 
 제조 현장에서는 제조 과정에서의 품질 자료를 이미지로 관리하고 있습니다.
@@ -24,6 +25,7 @@ https://aifactory.space/task/2261/overview
 Scikit-Learn에 내장된 F1-Score를 ‘macro’ 옵션으로 설정하여 평가에 사용합니다.
 
 ## 문제2
+https://aifactory.space/task/2265/overview
 1. 문제 개요 🔩
 
 제조 공정중에 발생하는 설비의 소음은 설비 가동 상태의 지표가 될 수 있습니다.
@@ -33,3 +35,4 @@ Scikit-Learn에 내장된 F1-Score를 ‘macro’ 옵션으로 설정하여 평�
    
 평가 메트릭은 macro F1-Score를 사용합니다.
 Scikit-Learn에 내장된 F1-Score를 ‘macro’ 옵션으로 설정하여 평가에 사용합니다.
+
